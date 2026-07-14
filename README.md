@@ -10,7 +10,12 @@ This repository acts as a central hub to explore my work in:
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+
+### 🔹 [Ai Usage & Cost Observatory](https://github.com/PavanKumarKothuri/Ai-usage-cost-observatory)
+
+AI Usage & Cost Observatory is a lightweight observability platform that monitors AI usage, token consumption, API costs, latency, and model utilization across multiple AI providers.
 
 ### 🔹 [Amygoe AutoOps Engine](https://github.com/PavanKumarKothuri/Amygoe-OpsEngine)
 - AI-powered automation engine for analyzing logs and generating intelligent insights  
